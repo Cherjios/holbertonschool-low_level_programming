@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print string using put
+ * main - Print string using printf
  * Return:  0 to exit
  */
 
