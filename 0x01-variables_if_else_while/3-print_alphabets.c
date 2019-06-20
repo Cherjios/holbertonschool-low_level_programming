@@ -22,7 +22,7 @@ c++;
 
 C = 'A';
 
-while (Ci <= 'Z')
+while (C <= 'Z')
 {
 putchar (C);
 C++;
