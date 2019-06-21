@@ -8,25 +8,24 @@
 */
 
 int main(void)
-{
+	{
 
-char c, C;
+	char c, C;
 
-c = 'a';
+	c = 'a';
 
-while (c <= 'z')
-{
-putchar (c);
-c++;
-}
+	while (c <= 'z')
+	{
+		putchar (c);
+		c++;
+	}
 
-C = 'A';
-
-while (C <= 'Z')
-{
-putchar (C);
-C++;
-}
-putchar('\n');
-return (0);
-}
+	C = 'A';
+	while (C <= 'Z')
+	{
+		putchar (C);
+		C++;
+		}
+	putchar('\n');
+	return (0);
+	}

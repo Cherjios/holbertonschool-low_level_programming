@@ -3,21 +3,21 @@
 #include <time.h>
 
 /**
-* main - Print the alphabet in lowercase,
+* main - Print all single digit numbers of base 10
 * Return: 0
 */
 
 int main(void)
 {
-	char c;
+	int c;
 
-	c = 'a';
+	c = 0;
 
-	while (c <= 'z')
+	while (c <= 10)
 	{
-		putchar (c);
+		printf("%i", c);
 		c++;
 	}
-	putchar('\n');
+	printf("\n");
 	return (0);
 }
