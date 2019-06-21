@@ -9,15 +9,15 @@
 
 int main(void)
 {
-	int c;
+	char c;
 
-	c = 0;
+	c = '0';
 
-	while (c <= 9)
+	while (c <= '9')
 	{
-		printf("%i", c);
+		putchar(c);
 		c++;
 	}
-	printf("\n");
+	putchar('\n');
 	return (0);
 }
