@@ -13,7 +13,7 @@ int main(void)
 
 	c = 0;
 
-	while (c <= 10)
+	while (c <= 9)
 	{
 		printf("%i", c);
 		c++;
