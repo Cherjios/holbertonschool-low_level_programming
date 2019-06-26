@@ -2,7 +2,6 @@
 
 /**
 *print_alphabet - Prints the alphabet one time
-*print_alphabet_x10- Prints the alphabet ten times
 *Return: Always 0
 */
 
@@ -24,6 +23,10 @@ void print_alphabet(void)
 
 }
 
+/**
+*print_alphabet_x10- Prints the alphabet ten times
+*Return: Always 0
+*/
 void print_alphabet_x10(void)
 {
 	int num;
