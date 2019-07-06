@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-*_strncat-Function that concatenates two strings from n bytes
+**_strncat-Function that concatenates two strings from n bytes
 *
 *@dest: is a chart value
 *@src: is a chart value
