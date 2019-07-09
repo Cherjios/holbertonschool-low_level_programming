@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-*_memcyp-Function that copies memory area.
+*_memcpy-Function that copies memory area.
 *
 *@dest: Is a chart value
 *@src: Is a chart value
