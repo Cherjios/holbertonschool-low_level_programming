@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-*_strchr-Function that copies memory area.
+*_strchr-Locates a character in a string.
 *
 *@s:Is a chart value
 *@c: Is a chart value
@@ -11,20 +11,17 @@
 
 char *_strchr(char *s, char c)
 {
-	int i, count_c = 0;
-
-	for (i = 0; s[i] != '\0'; i++)
+	for (; ; s++)
 	{
-		if (s[i] == c)
-			count_c++;
+		if (*s == c)
+		{
+			return (s);
+		}
+		if (!*s)
+		{
+			return ('\0');
+		}
 	}
 
-	if (count_c != 0)
-	{
-		while( *s != c)
-			s++;
-			return(s);
-	}
-	else
-		return(0); 
+	return ('\0');
 }
