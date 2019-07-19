@@ -5,8 +5,8 @@
 /**
 *_calloc-Function that allocates memory for an array, using malloc.
 *
-*@nmemb: is an int value
-*@size: is an int value
+*@nmemb: is an unsgined int value
+*@size: is an unsigned int value
 *
 *Return: a char value
 */
