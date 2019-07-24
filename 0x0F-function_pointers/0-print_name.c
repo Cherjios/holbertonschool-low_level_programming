@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "function_pointers.h"
 
-/*
-*print_name: Function that prints a name
+/**
+*print_name - function that prints a name
 *
 *@name: Char value
 *@f: Function pointer that takes character strings values
