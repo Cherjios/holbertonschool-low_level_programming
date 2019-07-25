@@ -19,12 +19,12 @@ int main(int argc, char **argv)
 		exit(98);
 	}
 
-	if (!(argv[2][0] == '+' || argv[2][0] == '-' || argv[2][0] == '*' ||
+/*	if (!(argv[2][0] == '+' || argv[2][0] == '-' || argv[2][0] == '*' ||
 argv[2][0] == '/' || argv[2][0] == '%'))
 	{
 		printf("Error\n");
 		exit(99);
-	}
+	}*/
 
 	if ((argv[2][0] == '%' || argv[2][0] == '/') && argv[3][0] == '0')
 	{
