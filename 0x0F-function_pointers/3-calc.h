@@ -1,5 +1,5 @@
-#ifndef CALC_H
-#define CALC_H
+#ifndef _CALC_H
+#define _CALC_H
 
 /**
  * struct op - Struct op
@@ -11,7 +11,7 @@ typedef struct op
 {
 	char *op;
 	int (*f)(int a, int b);
-} top_t;
+} op_t;
 
 int op_add(int a, int b);
 int op_sub(int a, int b);
