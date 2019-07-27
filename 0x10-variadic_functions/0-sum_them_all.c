@@ -20,7 +20,7 @@ int sum_them_all(const unsigned int n, ...)
 	va_start(valist, n);
 
 	/* access all the arguments assigned to valist */
-	if (n == 0);
+	if (n == 0)
 		return (0);
 
 	for (i = 0; i < n; i++)
