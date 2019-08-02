@@ -1,18 +1,15 @@
-section .data
+extern printf
 
-	msg db 10d,13d, "Hello, Holberton"
-	1 equ $-msg
-section .text
-	global _start
-_start:
-	mov rax, 1
-	mov rdi, 1
-	mov rsi, message
-	mov rdx, 1
-	syscall
+SECTION .data
 
-	mov rax, 60
-	mov rdi, 0
-	syscall
-end:
+	message db "Hello, Holberton", 10
 
+SECTION .text
+
+	global main
+	main:
+	mov edi, message
+	mov eax, 0
+	call printf
+	mov rax, 0
+	ret
