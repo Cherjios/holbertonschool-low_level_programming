@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
-*listnt_len- Function that returns the number of elements
+*listint_len- Function that returns the number of elements
 * of a listint_t list
 *@h: Takes in a const struct type *h
 *Return: size_t counter value
