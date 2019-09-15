@@ -1,51 +1,51 @@
 #include "lists.h"
 
 /**
-  *insert_dnodeint_at_index-Function insert the nth node of a list
-  *@h: Fist element of the list
-  *@idx:unsigned int value getting into the list
-  *@n: int value
-  *Return: strucy type
-  */
+ * insert_dnodeint_at_index - inserts a new node at the given position
+ * @h: pointer to the given linked list
+ * @idx: index
+ * @n: element(integer) to be inserted
+ * Return: the address of the new node, or NULL if it failed
+ */
 dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n)
 {
-	dlistint_t *new_node, *node;
-	unsigned int num = 1;
+	dlistint_t *cur, *new_node;
+	unsigned int i;
 
-	if (h == NULL && idx != 0)
+	if ((h == NULL) || (*h == NULL && idx > 0))
 		return (NULL);
-
 	new_node = malloc(sizeof(dlistint_t));
-	if (!new_node)
+	if (new_node == NULL)
 		return (NULL);
 	new_node->n = n;
-	node = *h;
-	if (!node)
+	new_node->next = NULL;
+	new_node->prev = NULL;
+	if (*h == NULL)
 	{
-		new_node->prev = NULL;
-		new_node->next = NULL;
 		*h = new_node;
-		return (new_node);
+		return (*h);
 	}
 	if (idx == 0)
 	{
-		new_node->prev = NULL;
 		new_node->next = *h;
-		node->prev = new_node;
+		(*h)->prev = new_node;
 		*h = new_node;
-		return (new_node);
+		return (*h);
 	}
-	while (node)
+	else
 	{
-		if (num == idx)
+		cur = *h;
+		for (i = 0; i < idx - 1; ++i)
 		{
-			new_node->next = node->next;
-			node->next = new_node;
-			return (new_node);
+			if (cur == NULL)
+				return (NULL);
+			cur = cur->next;
 		}
-		node = node->next;
-		num++;
+		if (cur->next != NULL)
+			new_node->next = cur->next;
+		cur->next = new_node;
+		new_node->prev = cur;
+		cur = new_node;
 	}
-	free(new_node);
-	return (NULL);
+	return (cur);
 }
