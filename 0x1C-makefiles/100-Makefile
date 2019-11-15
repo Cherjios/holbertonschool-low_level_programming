@@ -1,13 +1,25 @@
-CC=gcc
-SRC=main.c holberton.c m.h
-OBJ=$(SRC:.c=.o)
-NAME=holberton
-CFLAGS=-Wall -Werror -Wextra -pedantic
-all: $(OBJ)
-	$(CC) $(SRC) -o $(NAME)
-clean:
+CC = gcc
+SRC = main.c holberton.c
+OBJ = $(SRC:.c=.o)
+NAME = holberton
+CFLAGS = -Wall -Werror -Wextra -pedantic
+HEADER = "m.h"
+
+ifneq ("$(wildcard m.h)", "")
+
+all : $(OBJ)
+	$(CC) $(OBJ) -o $(NAME)
+
+.PHONY: clean oclean fclean re
+
+clean :
 	$(RM) *~ $(NAME)
-oclean:
-	$(RM) $(OBJ)
-fclean: clean oclean
-re: oclean all
+
+oclean :
+	$(RM) -f $(OBJ)
+
+fclean : clean oclean
+
+re : oclean all
+
+endif
