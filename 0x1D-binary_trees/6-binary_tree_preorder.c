@@ -6,7 +6,7 @@
  * @tree: is a pointer to the root node
  * @func: is a pointer to a function to call for each node
  *
- * Return: return 1 is node is a leaf, otherwise 0
+ * Return: void
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 {
