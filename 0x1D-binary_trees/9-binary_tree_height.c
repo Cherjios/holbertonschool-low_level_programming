@@ -20,6 +20,7 @@ size_t getting_height(const binary_tree_t *tree)
 	else
 		return (right + 1);
 }
+
 /**
  * binary_tree_height- Function that measures the height of a binary tree
  *
