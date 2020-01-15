@@ -10,7 +10,7 @@
  * @size: Elements in an array
  * @value: Value to search for
  *
- * Return: return a pointer to the new node, or NULL on failure
+ * Return: -1 if not value fond otherwise the array index
  */
 
 int linear_search(int *array, size_t size, int value)
