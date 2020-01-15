@@ -20,6 +20,7 @@ size_t j;
 
 for (j = 0, i = 0; j < size; j++, i++)
 {
+printf("Value checked array [%i] = [%i]\n", i, array[i]);
 if (array[i] == value)
 return (i);
 }
