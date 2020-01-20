@@ -13,35 +13,36 @@
 
 int binary_search(int *array, size_t size, int value)
 {
-int ini = 0, i, med;
-int fin = size - 1;
+    int ini = 0, i, med;
+    int fin = size - 1;
 
-if (array == NULL)
-return (-1);
+    if (array == NULL)
+    return (-1);
 
-while (ini <= fin)
-{
-printf("Searching in array: ");
-for (i = ini; i < fin; i++)
-{
-printf("%d, ", array[i]);
-}
-printf("%d\n", array[i]);
+    while (ini <= fin)
+    {
+	printf("Searching in array: ");
+	for (i = ini; i < fin; i++)
+	{
+	    printf("%d, ", array[i]);
+	}
+	printf("%d\n", array[i]);
 
-med = (ini + fin) / 2;
+	med = (ini + fin) / 2;
 
-if (array[med] < value)
-{
-ini = med + 1;
-}
-else if (array[med] > value)
-{
-fin = med - 1;
-}
-else
-{
-return (med);
-}
-}
-return (-1);
+	if (array[med] < value)
+	{
+	    ini = med + 1;
+	}
+	else if (array[med] > value)
+	{
+	    fin = med - 1;
+	}
+	else
+	{
+	    return (med);
+	}
+    }
+	return (-1);
+    
 }
