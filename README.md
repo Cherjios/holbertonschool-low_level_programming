@@ -10,4 +10,5 @@
 5. [0x05-pointers_arrays_strings](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings) - Deep dive into pointer arithmetic and more string manipulation
 6. [0x06-pointers_arrays_strings](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings) - Double pointers and multidimensional arrays
 7. [0x07-pointers_arrays_strings](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x07-pointers_arrays_strings) - Pointers, arrays and strings manipulation
-
+8. [0x08-recursion](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x08-recursion) - Recursion applied in c programming
+9. [0x09-static_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x09-static_libraries) - Implemented of static libraries
