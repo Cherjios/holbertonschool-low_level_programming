@@ -1,4 +1,4 @@
-# [Holberton](https://www.holbertonschool.com)
+# [Holberton](https://www.holbertonschool.com) - Low level programming in C
 
 ### Inside of this repository you will find the projects made for low level programming curriculum at [Holberton](https://www.holbertonschool.com):
 
