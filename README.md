@@ -13,9 +13,11 @@
 8. [0x08-recursion](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x08-recursion) - Recursion applied in c programming
 9. [0x09-static_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x09-static_libraries) - Implemented of static libraries
 10. [0x10-variadic_functions](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x10-variadic_functions) - Implementation of variadic Functions
+11. [0x11. C - printf](https://github.com/Cherjios/printf)- Custom implementation of C's printf (midterm project)
 12. [0x12-singly_linked_lists](0x12-singly_linked_lists)- Linked lists 
 13. [0x13-more_singly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x13-more_singly_linked_lists) - Morea about linked lists 
 14. [0x14-bit_manipulation](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation) - Bit Manipulation Use of bitwise operators in C programs
 15. [0x15-file_io](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x15-file_io) - Open, read, write input/output into a file
+16. [0x16. C - Simple Shell](https://github.com/Cherjios/simple_shell)- Simple shell in C programs
 17. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
 
