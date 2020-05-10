@@ -21,3 +21,6 @@
 16. [0x16. C - Simple Shell](https://github.com/Cherjios/simple_shell)- Simple shell in C programs
 17. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
 18. [0x18-dynamic_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x18-dynamic_libraries) - Implemented of Dynamic libraries
+19. [0x0A-argc_argv](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0A-argc_argv) - Programs that handle command line arguments
+20.[0x0B-malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0B-malloc_free)- introduction into memory management and valgrind
+21.[0x0C-more_malloc_free]-(https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0C-more_malloc_free) - Dynamic reallocation of memory using malloc
