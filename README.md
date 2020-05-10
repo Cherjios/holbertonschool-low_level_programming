@@ -12,17 +12,19 @@
 7. [0x07-pointers_arrays_strings](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x07-pointers_arrays_strings) - Pointers, arrays and strings manipulation
 8. [0x08-recursion](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x08-recursion) - Recursion applied in c programming
 9. [0x09-static_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x09-static_libraries) - Implemented of static libraries
-10. [0x10-variadic_functions](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x10-variadic_functions) - Implementation of variadic Functions
-11. [0x11. C - printf](https://github.com/Cherjios/printf)- Custom implementation of C's printf (midterm project)
-12. [0x12-singly_linked_lists](0x12-singly_linked_lists)- Linked lists 
-13. [0x13-more_singly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x13-more_singly_linked_lists) - Morea about linked lists 
-14. [0x14-bit_manipulation](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation) - Bit Manipulation Use of bitwise operators in C programs
-15. [0x15-file_io](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x15-file_io) - Open, read, write input/output into a file
-16. [0x16. C - Simple Shell](https://github.com/Cherjios/simple_shell)- Simple shell in C programs
-17. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
-18. [0x18-dynamic_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x18-dynamic_libraries) - Implemented of Dynamic libraries
-19. [0x0A-argc_argv](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0A-argc_argv) - Programs that handle command line arguments
-20. [0x0B-malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0B-malloc_free)- introduction into memory management and valgrind
-21. [0x0C-more_malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0C-more_malloc_free) - Dynamic reallocation of memory using malloc
-22. [0x0D-preprocessor](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0D-preprocessor) - macros and how to use them
-23. [0x0E-structures_typedef](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0E-structures_typedef) - implementation of structs in C
+10. [0x0A-argc_argv](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0A-argc_argv) - Programs that handle command line arguments
+11. [0x0B-malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0B-malloc_free)- introduction into memory management and valgrind
+12. [0x0C-more_malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0C-more_malloc_free) - Dynamic reallocation of memory using malloc
+13. [0x0D-preprocessor](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0D-preprocessor) - macros and how to use them
+14. [0x0E-structures_typedef](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0E-structures_typedef) - Implementation of structures in C
+15. [0x0F-function_pointers](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0F-function_pointers) - Implementation of function pointers 
+16. [0x10-variadic_functions](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x10-variadic_functions) - Implementation of variadic Functions
+17. [0x11. C - printf](https://github.com/Cherjios/printf)- Custom implementation of C's printf (midterm project)
+18. [0x12-singly_linked_lists](0x12-singly_linked_lists)- Linked lists 
+19. [0x13-more_singly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x13-more_singly_linked_lists) - Morea about linked lists 
+20. [0x14-bit_manipulation](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation) - Bit Manipulation Use of bitwise operators in C programs
+21. [0x15-file_io](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x15-file_io) - Open, read, write input/output into a file
+22. [0x16. C - Simple Shell](https://github.com/Cherjios/simple_shell)- Simple shell in C programs
+23. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
+24. [0x18-dynamic_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x18-dynamic_libraries) - Implemented of Dynamic libraries
+
