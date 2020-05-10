@@ -15,4 +15,7 @@
 10. [0x10-variadic_functions](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x10-variadic_functions) - Implementation of variadic Functions
 12. [0x12-singly_linked_lists](0x12-singly_linked_lists)- Linked lists 
 13. [0x13-more_singly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x13-more_singly_linked_lists) - Morea about linked lists 
+14. [0x14-bit_manipulation](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation) - Bit Manipulation Use of bitwise operators in C programs
+15. [/0x15-file_io](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x15-file_io) - Open, read, write input/output into a file
+17. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
 
