@@ -25,3 +25,4 @@
 20. [0x0B-malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0B-malloc_free)- introduction into memory management and valgrind
 21. [0x0C-more_malloc_free](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0C-more_malloc_free) - Dynamic reallocation of memory using malloc
 22. [0x0D-preprocessor](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0D-preprocessor) - macros and how to use them
+23. [0x0E-structures_typedef](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x0E-structures_typedef) - implementation of structs in C
