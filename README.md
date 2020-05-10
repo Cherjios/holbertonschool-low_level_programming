@@ -27,4 +27,5 @@
 22. [0x16. C - Simple Shell](https://github.com/Cherjios/simple_shell)- Simple shell in C programs
 23. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
 24. [0x18-dynamic_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x18-dynamic_libraries) - Implemented of Dynamic libraries
-
+25. [0x1A-hash_tables](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x1A-hash_tables) - Implementation of hash tables
+26. [0x1B-sorting_algorithms](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x1B-sorting_algorithms) - Implementation of Sorting algorithms & Big O
