@@ -20,4 +20,4 @@
 15. [0x15-file_io](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x15-file_io) - Open, read, write input/output into a file
 16. [0x16. C - Simple Shell](https://github.com/Cherjios/simple_shell)- Simple shell in C programs
 17. [0x17-doubly_linked_lists](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists) - Creation and traversal of doubly linked lists in C
-
+18. [0x18-dynamic_libraries](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x18-dynamic_libraries) - Implemented of Dynamic libraries
