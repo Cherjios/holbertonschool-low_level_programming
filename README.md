@@ -30,3 +30,5 @@
 25. [0x1A-hash_tables](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x1A-hash_tables) - Implementation of hash tables
 26. [0x1B-sorting_algorithms](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x1B-sorting_algorithms) - Implementation of Sorting algorithms & Big O in C
 27. [0x1C-makefiles](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x1C-makefiles) - Makefile Requirements in C
+28. [0x1D-binary_trees](https://github.com/Cherjios/holbertonschool-low_level_programming/tree/master/0x1D-binary_trees) - Implementation of data structure binary trees
+
